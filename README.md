@@ -13,7 +13,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 - [License](#license)
 
 ## About Me
-A brief introduction about myself, my background, and what I do. You can also include about my career goals.
+A brief introduction about myself, my background, and what I do. 
 
 ## Technologies Used
 - HTML
